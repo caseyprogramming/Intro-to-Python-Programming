@@ -1,3 +1,4 @@
+#Python 2.7
 import random
 gameActive = True
 generatedNumber  = random.randint(1,100)
