@@ -1,3 +1,4 @@
+#Python 2.7
 import random
 gameActive = True
 #this can be used to make sure the player isnt cheating
