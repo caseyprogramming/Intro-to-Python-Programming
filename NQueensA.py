@@ -1,4 +1,5 @@
-# NQueensA_GPC.py
+# NQueensA.py
+# Write a brief Python program to randomly generate a solution to the N-Queens problem
 import random
 # ask the user for an N value
 
